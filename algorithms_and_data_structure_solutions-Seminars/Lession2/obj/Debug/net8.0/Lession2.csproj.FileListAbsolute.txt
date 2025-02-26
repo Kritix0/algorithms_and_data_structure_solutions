@@ -1,0 +1,15 @@
+C:\Users\kritix\Downloads\algorithms_and_data_structure_solutions-Seminars\Lession2\bin\Debug\net8.0\Lession2.exe
+C:\Users\kritix\Downloads\algorithms_and_data_structure_solutions-Seminars\Lession2\bin\Debug\net8.0\Lession2.deps.json
+C:\Users\kritix\Downloads\algorithms_and_data_structure_solutions-Seminars\Lession2\bin\Debug\net8.0\Lession2.runtimeconfig.json
+C:\Users\kritix\Downloads\algorithms_and_data_structure_solutions-Seminars\Lession2\bin\Debug\net8.0\Lession2.dll
+C:\Users\kritix\Downloads\algorithms_and_data_structure_solutions-Seminars\Lession2\bin\Debug\net8.0\Lession2.pdb
+C:\Users\kritix\Downloads\algorithms_and_data_structure_solutions-Seminars\Lession2\obj\Debug\net8.0\Lession2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kritix\Downloads\algorithms_and_data_structure_solutions-Seminars\Lession2\obj\Debug\net8.0\Lession2.AssemblyInfoInputs.cache
+C:\Users\kritix\Downloads\algorithms_and_data_structure_solutions-Seminars\Lession2\obj\Debug\net8.0\Lession2.AssemblyInfo.cs
+C:\Users\kritix\Downloads\algorithms_and_data_structure_solutions-Seminars\Lession2\obj\Debug\net8.0\Lession2.csproj.CoreCompileInputs.cache
+C:\Users\kritix\Downloads\algorithms_and_data_structure_solutions-Seminars\Lession2\obj\Debug\net8.0\Lession2.sourcelink.json
+C:\Users\kritix\Downloads\algorithms_and_data_structure_solutions-Seminars\Lession2\obj\Debug\net8.0\Lession2.dll
+C:\Users\kritix\Downloads\algorithms_and_data_structure_solutions-Seminars\Lession2\obj\Debug\net8.0\refint\Lession2.dll
+C:\Users\kritix\Downloads\algorithms_and_data_structure_solutions-Seminars\Lession2\obj\Debug\net8.0\Lession2.pdb
+C:\Users\kritix\Downloads\algorithms_and_data_structure_solutions-Seminars\Lession2\obj\Debug\net8.0\Lession2.genruntimeconfig.cache
+C:\Users\kritix\Downloads\algorithms_and_data_structure_solutions-Seminars\Lession2\obj\Debug\net8.0\ref\Lession2.dll

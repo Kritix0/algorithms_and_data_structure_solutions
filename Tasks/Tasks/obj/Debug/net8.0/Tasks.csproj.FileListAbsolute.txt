@@ -1,0 +1,15 @@
+C:\algorithms_and_data_structure_solutions-Seminars\Tasks\Tasks\bin\Debug\net8.0\Tasks.exe
+C:\algorithms_and_data_structure_solutions-Seminars\Tasks\Tasks\bin\Debug\net8.0\Tasks.deps.json
+C:\algorithms_and_data_structure_solutions-Seminars\Tasks\Tasks\bin\Debug\net8.0\Tasks.runtimeconfig.json
+C:\algorithms_and_data_structure_solutions-Seminars\Tasks\Tasks\bin\Debug\net8.0\Tasks.dll
+C:\algorithms_and_data_structure_solutions-Seminars\Tasks\Tasks\bin\Debug\net8.0\Tasks.pdb
+C:\algorithms_and_data_structure_solutions-Seminars\Tasks\Tasks\obj\Debug\net8.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\algorithms_and_data_structure_solutions-Seminars\Tasks\Tasks\obj\Debug\net8.0\Tasks.AssemblyInfoInputs.cache
+C:\algorithms_and_data_structure_solutions-Seminars\Tasks\Tasks\obj\Debug\net8.0\Tasks.AssemblyInfo.cs
+C:\algorithms_and_data_structure_solutions-Seminars\Tasks\Tasks\obj\Debug\net8.0\Tasks.csproj.CoreCompileInputs.cache
+C:\algorithms_and_data_structure_solutions-Seminars\Tasks\Tasks\obj\Debug\net8.0\Tasks.sourcelink.json
+C:\algorithms_and_data_structure_solutions-Seminars\Tasks\Tasks\obj\Debug\net8.0\Tasks.dll
+C:\algorithms_and_data_structure_solutions-Seminars\Tasks\Tasks\obj\Debug\net8.0\refint\Tasks.dll
+C:\algorithms_and_data_structure_solutions-Seminars\Tasks\Tasks\obj\Debug\net8.0\Tasks.pdb
+C:\algorithms_and_data_structure_solutions-Seminars\Tasks\Tasks\obj\Debug\net8.0\Tasks.genruntimeconfig.cache
+C:\algorithms_and_data_structure_solutions-Seminars\Tasks\Tasks\obj\Debug\net8.0\ref\Tasks.dll
